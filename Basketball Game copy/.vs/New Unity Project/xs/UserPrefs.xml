@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Project/scripts/CountdownTimer.cs">
+    <Files>
+      <File FileName="Assets/Project/scripts/Player.cs" Line="30" Column="38" />
+      <File FileName="Assets/Project/scripts/GameController.cs" />
+      <File FileName="Assets/Project/scripts/Ball.cs" Line="18" Column="37" />
+      <File FileName="Assets/Project/scripts/ScoreArea.cs" Line="17" Column="41" />
+      <File FileName="Assets/Project/scripts/ScoreScript.cs" Line="22" Column="45" />
+      <File FileName="Assets/Project/scripts/CountdownTimer.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Project" expanded="True">
+                <Node name="scripts" expanded="True">
+                  <Node name="CountdownTimer.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="09d73ea4-ac2a-43b8-a7d6-daf18386de3e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
